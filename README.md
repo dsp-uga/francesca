@@ -2,7 +2,7 @@
 ## Team - francesca
 ### Usage:
 This project aimed to classify the malware; 
-one might need to run at Google DataProc with Spark kernel with Python 3.
+one might need to run it at Google DataProc with Spark kernel with Python 3.
 
 ### Rational
 This program was implemented with Naive Bayes algorithm.
